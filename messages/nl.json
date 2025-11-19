@@ -1,0 +1,420 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Over Ons",
+    "projects": "Onze Projecten",
+    "services": "Onze Diensten",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Offerte Aanvragen",
+    "clientPanel": "Klant Paneel"
+  },
+  "home": {
+    "title": "Wawa Interiors",
+    "subtitle": "Ruimtes Transformeren tot Meesterwerken",
+    "description": "We creëren mooie, functionele interieurs die uw stijl weerspiegelen en uw levensstijl verbeteren.",
+    "cta": "Bekijk Ons Werk",
+    "servicesTitle": "Onze Diensten",
+    "projectsTitle": "Uitgelichte Projecten",
+    "projectsSubtitle": "PROJECTEN",
+    "testimonialsTitle": "Wat Onze Klanten Zeggen",
+    "processTitle": "ONS PROCES",
+    "processSubtitle": "Hoe We Werken",
+    "processAnalysis": {
+      "title": "Analyse",
+      "description": "We beginnen met het begrijpen van uw behoeften, voorkeuren en levensstijl. Ons team voert een grondige analyse uit van uw ruimte en vereisten."
+    },
+    "processProposal": {
+      "title": "Offerte",
+      "description": "Op basis van onze analyse maken we een gedetailleerde offerte met ontwerpconcepten, tijdlijnen en budgetschattingen op maat voor uw project."
+    },
+    "processDesign": {
+      "title": "Ontwerp",
+      "description": "Onze ontwerpers maken uitgebreide plannen, 3D-visualisaties en gedetailleerde specificaties die uw visie tot leven brengen."
+    },
+    "processExecution": {
+      "title": "Uitvoering",
+      "description": "We beheren het hele implementatieproces en zorgen voor kwaliteitsvakmanschap en tijdige voltooiing van uw project."
+    },
+    "processSlider": {
+      "title": "WERKEN",
+      "subtitle": "Ons Proces",
+      "step1": {
+        "title": "Projectplanning met Klant",
+        "description": "We geloven in collaboratief ontwerp. Ons proces begint met het begrijpen van uw visie, behoeften en levensstijl. Samen creëren we ruimtes die niet alleen mooi zijn, maar ook perfect functioneren voor uw dagelijks leven."
+      },
+      "step2": {
+        "title": "Ontwerpontwikkeling",
+        "description": "Onze ontwerpers werken nauw met u samen om uitgebreide ontwerpconcepten te ontwikkelen. We maken gedetailleerde plannen, 3D-visualisaties en moodboards die uw visie tot leven brengen."
+      },
+      "step3": {
+        "title": "Materiaalselectie",
+        "description": "We selecteren zorgvuldig materialen, afwerkingen en meubels die aansluiten bij uw stijl en budget. Kwaliteit en duurzaamheid staan voorop bij onze materiaalkeuzes."
+      },
+      "step4": {
+        "title": "Definitieve Uitvoering",
+        "description": "Ons ervaren team beheert elk aspect van de implementatie, zorgt voor kwaliteitsvakmanschap en tijdige voltooiing. We coördineren met aannemers en leveranciers om uitzonderlijke resultaten te leveren."
+      },
+      "navPlanning": "Planning",
+      "navDesign": "Ontwerp",
+      "navMaterials": "Materialen",
+      "navExecution": "Uitvoering"
+    }
+  },
+  "services": {
+    "title": "Onze Diensten",
+    "subtitle": "Uitgebreide Interieurontwerp Oplossingen",
+    "heroQuote": "Ontwerp is niet alleen hoe het eruitziet en aanvoelt. Ontwerp is hoe het werkt.",
+    "heroDescription": "Als interieurontwerper ontwerp je voor het heden, met bewustzijn van het verleden, voor een toekomst die in wezen onbekend is.",
+    "learnMore": "Meer Weten",
+    "introTitle": "Onze Diensten",
+    "introStatement": "Wawa Interieur Architectuurbureau biedt uitgebreide interieurontwerp- en uitvoeringsdiensten, transformeert ruimtes tot functionele en esthetisch aantrekkelijke omgevingen die uw unieke visie en levensstijl weerspiegelen.",
+    "introText1": "Met expertise die zich uitstrekt over residentiële, commerciële en horecasectoren, leveren we end-to-end oplossingen van initieel conceptontwikkeling tot uiteindelijke implementatie. Onze aanpak combineert innovatief ontwerpdenken met praktische functionaliteit.",
+    "introText2": "Elk project is afgestemd op de specifieke behoeften van onze klanten, waardoor elke ruimte die we ontwerpen er niet alleen uitzonderlijk uitziet, maar ook het dagelijks leven en de ervaringen van degenen die het gebruiken verbetert.",
+    "aboutTitle": "Over Ons",
+    "aboutSubtitle": "Zinnige architectuur bieden is niet om geschiedenis te parodiëren, maar om deze te articuleren.",
+    "aboutDescription": "Bij Wawa Interiors zijn we gespecialiseerd in het transformeren van ruimtes tot mooie, functionele omgevingen die het leven van onze klanten verbeteren. Ons team combineert creativiteit met technische expertise om uitzonderlijke resultaten te leveren.",
+    "residential": {
+      "title": "Woonontwerp & Uitvoering",
+      "description": "Transformeer uw huis in een gepersonaliseerde toevluchtsoord die uw unieke stijl en levensstijl weerspiegelt.",
+      "heroTitle": "Woonontwerp & Uitvoering",
+      "heroSubtitle": "Huizen Creëren Die Uw Levensstijl Weerspiegelen",
+      "overview": "Bij Wawa Interiors zijn we gespecialiseerd in het transformeren van woonruimtes tot mooie, functionele huizen die perfect aansluiten bij uw levensstijl en persoonlijke smaak. Van moderne appartementen tot luxe villa's, wij verzorgen elk aspect van het ontwerp- en uitvoeringsproces.",
+      "whatWeOffer": "Wat Wij Bieden",
+      "service1": "Ruimteplanning & Layout Ontwerp",
+      "service1Desc": "Optimaliseer uw woonruimte met intelligente layouts die functionaliteit en flow maximaliseren.",
+      "service2": "Interieurontwerp Concepten",
+      "service2Desc": "Aangepaste ontwerpconcepten afgestemd op uw stijl, van modern tot klassiek.",
+      "service3": "Materiaal & Afwerking Selectie",
+      "service3Desc": "Zorgvuldig geselecteerde materialen en afwerkingen die esthetiek en duurzaamheid in evenwicht brengen.",
+      "service4": "Meubilair & Decor Selectie",
+      "service4Desc": "Handgeplukte meubels en decorstukken die uw visie completeren.",
+      "service5": "Projectmanagement",
+      "service5Desc": "End-to-end projectmanagement dat tijdige en kwalitatieve uitvoering waarborgt.",
+      "process": "Ons Proces",
+      "process1": "Eerste Consultatie",
+      "process1Desc": "We beginnen met het begrijpen van uw visie, behoeften en levensstijlvoorkeuren.",
+      "process2": "Ontwerpontwikkeling",
+      "process2Desc": "Ons team maakt gedetailleerde ontwerpplannen met 3D-visualisaties.",
+      "process3": "Materiaalselectie",
+      "process3Desc": "We begeleiden u bij het selecteren van de perfecte materialen en afwerkingen.",
+      "process4": "Uitvoering & Installatie",
+      "process4Desc": "Ons ervaren team beheert het hele implementatieproces.",
+      "cta": "Klaar om uw huis te transformeren?",
+      "ctaButton": "Vraag Gratis Offerte Aan"
+    },
+    "office": {
+      "title": "Kantoorontwerp & Uitvoering",
+      "description": "Creëer productieve en inspirerende werkplekken die het welzijn van werknemers en bedrijfscultuur verbeteren.",
+      "heroTitle": "Kantoorontwerp & Uitvoering",
+      "heroSubtitle": "Werkplekken Die Productiviteit Inspireren",
+      "overview": "We ontwerpen moderne kantoorruimtes die creativiteit, samenwerking en werknemerswelzijn bevorderen. Onze kantoorontwerp oplossingen combineren functionaliteit met esthetische aantrekkingskracht om omgevingen te creëren waar teams gedijen.",
+      "whatWeOffer": "Wat Wij Bieden",
+      "service1": "Open Plan & Privékantoren",
+      "service1Desc": "Flexibele layouts die samenwerking en privacy in evenwicht brengen.",
+      "service2": "Vergaderzalen & Gemeenschappelijke Ruimtes",
+      "service2Desc": "Ruimtes ontworpen voor effectieve communicatie en teambuilding.",
+      "service3": "Receptie & Lobby Ontwerp",
+      "service3Desc": "Indrukwekkende eerste indrukken die uw merkidentiteit weerspiegelen.",
+      "service4": "Ergonomische Oplossingen",
+      "service4Desc": "Meubilair en layouts die prioriteit geven aan gezondheid en comfort van werknemers.",
+      "service5": "Merkintegratie",
+      "service5Desc": "Ontwerpelementen die uw bedrijfscultuur en waarden versterken.",
+      "process": "Ons Proces",
+      "process1": "Behoeftenanalyse",
+      "process1Desc": "Begrijpen van uw teamgrootte, workflow en bedrijfscultuur.",
+      "process2": "Ruimteplanning",
+      "process2Desc": "Optimaliseren van layouts voor efficiëntie en werknemerstevredenheid.",
+      "process3": "Ontwerpontwikkeling",
+      "process3Desc": "Creëren van uitgebreide ontwerpplannen met gedetailleerde specificaties.",
+      "process4": "Implementatie",
+      "process4Desc": "Beheren van bouw, installatie en laatste details.",
+      "cta": "Klaar om uw werkplek opnieuw te ontwerpen?",
+      "ctaButton": "Vraag Gratis Offerte Aan"
+    },
+    "cafe": {
+      "title": "Café & Restaurant Ontwerp & Uitvoering",
+      "description": "Ontwerp uitnodigende eetruimtes die onvergetelijke ervaringen creëren voor uw gasten.",
+      "heroTitle": "Café & Restaurant Ontwerp & Uitvoering",
+      "heroSubtitle": "Onvergetelijke Eetervaringen Creëren",
+      "overview": "Van gezellige cafés tot fijne restaurants, we ontwerpen ruimtes die de eetervaring verbeteren en blijvende indrukken creëren. Onze ontwerpen balanceren sfeer, functionaliteit en merkidentiteit.",
+      "whatWeOffer": "Wat Wij Bieden",
+      "service1": "Interieurontwerp & Sfeer",
+      "service1Desc": "Creëren van de perfecte sfeer die uw keuken en merk aanvult.",
+      "service2": "Zitplaats Layout & Flow",
+      "service2Desc": "Optimaliseren van zitplaatsregelingen voor comfort en operationele efficiëntie.",
+      "service3": "Keuken & Servicegebied Ontwerp",
+      "service3Desc": "Functionele layouts die operaties stroomlijnen en service verbeteren.",
+      "service4": "Bar & Balie Ontwerp",
+      "service4Desc": "Prachtige barruimtes die het middelpunt van uw zaak worden.",
+      "service5": "Buiteneetruimtes",
+      "service5Desc": "Mooie terrassen en patio's die uw eetcapaciteit uitbreiden.",
+      "process": "Ons Proces",
+      "process1": "Conceptontwikkeling",
+      "process1Desc": "Begrijpen van uw merk, doelgroep en operationele behoeften.",
+      "process2": "Ontwerpplanning",
+      "process2Desc": "Creëren van gedetailleerde plannen voor layout, verlichting en decor.",
+      "process3": "Materiaal & Uitrusting Selectie",
+      "process3Desc": "Kiezen van duurzame materialen en uitrusting geschikt voor horeca.",
+      "process4": "Uitvoering & Opzet",
+      "process4Desc": "Beheren van bouw, installatie en laatste styling.",
+      "cta": "Klaar om een onvergetelijke eetruimte te creëren?",
+      "ctaButton": "Vraag Gratis Offerte Aan"
+    },
+    "clinic": {
+      "title": "Kliniek & Gezondheidszorg Ontwerp & Uitvoering",
+      "description": "Creëer genezende omgevingen die prioriteit geven aan patiëntcomfort en medische efficiëntie.",
+      "heroTitle": "Kliniek & Gezondheidszorg Ontwerp & Uitvoering",
+      "heroSubtitle": "Genezende Omgevingen Die Zorgen",
+      "overview": "We zijn gespecialiseerd in het ontwerpen van gezondheidszorgfaciliteiten die patiëntcomfort en medische efficiëntie in evenwicht brengen. Onze ontwerpen creëren kalmerende, professionele omgevingen die zowel patiëntwelzijn als personeelsproductiviteit ondersteunen.",
+      "whatWeOffer": "Wat Wij Bieden",
+      "service1": "Patiëntenkamer Ontwerp",
+      "service1Desc": "Comfortabele, kalmerende ruimtes die genezing en herstel bevorderen.",
+      "service2": "Receptie & Wachtruimtes",
+      "service2Desc": "Gastvrije ruimtes die angst verminderen en positieve eerste indrukken creëren.",
+      "service3": "Consultatiekamers",
+      "service3Desc": "Professionele ruimtes ontworpen voor effectieve patiënt-dokter communicatie.",
+      "service4": "Medische Uitrusting Integratie",
+      "service4Desc": "Naadloze integratie van medische uitrusting in het ontwerp.",
+      "service5": "Hygiëne & Veiligheid Naleving",
+      "service5Desc": "Ontwerpen die voldoen aan alle gezondheidszorgregelgeving en veiligheidsnormen.",
+      "process": "Ons Proces",
+      "process1": "Vereistenanalyse",
+      "process1Desc": "Begrijpen van medische workflows, patiëntbehoeften en regelgevingsvereisten.",
+      "process2": "Ontwerpontwikkeling",
+      "process2Desc": "Creëren van functionele, conforme ontwerpen met patiëntcomfort in gedachten.",
+      "process3": "Materiaalselectie",
+      "process3Desc": "Kiezen van hygiënische, duurzame materialen geschikt voor gezondheidszorgomgevingen.",
+      "process4": "Implementatie",
+      "process4Desc": "Beheren van bouw terwijl operationele continuïteit wordt behouden.",
+      "cta": "Klaar om uw gezondheidszorgfaciliteit te ontwerpen?",
+      "ctaButton": "Vraag Gratis Offerte Aan"
+    },
+    "retail": {
+      "title": "Winkelontwerp & Uitvoering",
+      "description": "Ontwerp winkelruimtes die klanten aantrekken en de winkelervaring verbeteren.",
+      "heroTitle": "Winkelontwerp & Uitvoering",
+      "heroSubtitle": "Ruimtes Die Verkoop Stimuleren",
+      "overview": "We creëren winkelomgevingen die er niet alleen prachtig uitzien maar ook verkoop stimuleren. Onze ontwerpen optimaliseren klantenflow, benadrukken producten en creëren onvergetelijke winkelervaringen die klanten terugbrengen.",
+      "whatWeOffer": "Wat Wij Bieden",
+      "service1": "Winkel Layout & Flow",
+      "service1Desc": "Strategische layouts die klanten begeleiden en productzichtbaarheid maximaliseren.",
+      "service2": "Display & Meubilair Ontwerp",
+      "service2Desc": "Aangepaste displays en meubilair die uw producten effectief tentoonstellen.",
+      "service3": "Verlichtingsontwerp",
+      "service3Desc": "Verlichtingsoplossingen die producten verbeteren en de juiste sfeer creëren.",
+      "service4": "Merkidentiteit Integratie",
+      "service4Desc": "Ontwerpen die uw merkidentiteit weerspiegelen en versterken.",
+      "service5": "Kassa & Servicegebieden",
+      "service5Desc": "Efficiënte servicegebieden die de winkelervaring stroomlijnen.",
+      "process": "Ons Proces",
+      "process1": "Merk & Marktanalyse",
+      "process1Desc": "Begrijpen van uw merk, doelklanten en marktpositionering.",
+      "process2": "Ontwerpconcept",
+      "process2Desc": "Creëren van ontwerpen die aansluiten bij uw merk en verkooppotentieel optimaliseren.",
+      "process3": "Materiaal & Meubilair Selectie",
+      "process3Desc": "Selecteren van duurzame, aantrekkelijke materialen en meubilair voor winkelgebruik.",
+      "process4": "Installatie & Opzet",
+      "process4Desc": "Beheren van installatie met minimale verstoring van operaties.",
+      "cta": "Klaar om uw winkelruimte te transformeren?",
+      "ctaButton": "Vraag Gratis Offerte Aan"
+    }
+  },
+  "about": {
+    "title": "Over Ons",
+    "subtitle": "Mooie Interieurs Maken Sinds Dag Één",
+    "heroQuote": "Een van de grote schoonheden van architectuur is dat het elke keer is alsof het leven helemaal opnieuw begint.",
+    "aboutUs": {
+      "title": "Wie Zijn Wij",
+      "statement": "Wawa Interieur Architectuurbureau maakt de emoties van een ruimte, de bewegingen van de individuen die erin wonen en het doel ervan tot prioriteit bij het ontwerpen van leefruimtes.",
+      "text1": "Wawa Interieur Architectuurbureau is een in Istanbul gevestigd interieur architectuurbureau dat gelooft dat ontwerp een unieke vaardigheid heeft, waarbij functionaliteit en interactie binnen ruimtes worden benadrukt.",
+      "text2": "Ons interieur architectuurbureau begint met doelgroepanalyse voor een leefruimte, gaat verder met de planning van nuances zoals functioneel ontwerp binnen de ruimte en interactieontwerp tussen individuen. Met deze planning gaat het project verder naar de ontwerpfase die reageert op de eisen van die doelgroep."
+    },
+    "ourApproach": {
+      "title": "Onze aanpak",
+      "statement": "We combineren uw verwachtingen, smaken en levensstijl met ons ontwerp- en productieteam, voegen kleur toe aan uw leefruimte en raken uw ziel aan.",
+      "text1": "In de projectontwerpfase wordt elk detail dat in de ruimte wordt gebruikt bepaald. Het proces, dat begint met conceptontwerp, gaat verder met projectontwerp, projectuitvoering en supervisie.",
+      "text2": "Door esthetiek en functionaliteit op de voorgrond te houden, ontwerpen we niet alleen uw leefruimtes, maar ontwerpen we ook uw commerciële ruimtes en sociale leefruimtes, waardoor ze verschillen van hun tegenhangers. In elk project waar we de idee-generatiestap zetten, brengen we u samen met originele en inspirerende ontwerpen door innovaties en functionaliteit op een aangename manier te gebruiken."
+    },
+    "philosophy": {
+      "title": "Filosofie",
+      "statement": "We geloven dat ontwerp een unieke vaardigheid heeft, waarbij functionaliteit en interactie binnen ruimtes worden benadrukt.",
+      "text1": "Bij Wawa Interieur Architectuur maken we de emoties van een ruimte, de bewegingen van de individuen die erin wonen en het doel ervan tot prioriteit bij het ontwerpen van leefruimtes. Onze aanpak begint met het begrijpen van de essentie van elke ruimte en de mensen die erin zullen wonen.",
+      "text2": "We creëren ruimtes die niet alleen functionele behoeften vervullen, maar ook inspireren en de kwaliteit van leven verbeteren. Elk project is een kans om innovatie te combineren met functionaliteit, waardoor unieke en inspirerende ontwerpen worden gecreëerd die de individualiteit van elke klant weerspiegelen."
+    },
+    "awards": {
+      "title": "PRIJZEN",
+      "timeline": "2005 - Heden",
+      "award1": "2A Continental Architectural Awards",
+      "award1Category": "Woonproject",
+      "description": "We zijn trots om erkend te zijn voor ons uitstekende werk in residentiële architectuur. Onze toewijding aan excellentie en innovatie heeft ons prestigieuze prijzen en het vertrouwen van klanten in de regio opgeleverd."
+    },
+    "team": {
+      "title": "Ons Team",
+      "subtitle": "Ontmoet de getalenteerde individuen achter Wawa Interiors",
+      "canberk": {
+        "name": "Canberk Y.",
+        "role": "Hoofdarchitect"
+      },
+      "erdem": {
+        "name": "Erdem D.",
+        "role": "Interieurontwerper"
+      },
+      "muge": {
+        "name": "Müge D.",
+        "role": "Projectmanager"
+      },
+      "zehra": {
+        "name": "Zehra A.",
+        "role": "Ontwerpadviseur"
+      }
+    },
+    "mission": "Onze Missie",
+    "missionText": "Ruimtes transformeren tot mooie, functionele omgevingen die het leven van onze klanten verbeteren.",
+    "vision": "Onze Visie",
+    "visionText": "De toonaangevende interieurontwerpbureau zijn dat bekend staat om creativiteit, kwaliteit en uitzonderlijke service.",
+    "values": "Onze Waarden",
+    "value1": "Creativiteit & Innovatie",
+    "value2": "Kwaliteit & Excellentie",
+    "value3": "Klanttevredenheid",
+    "value4": "Duurzaamheid"
+  },
+  "projects": {
+    "title": "Onze Projecten",
+    "subtitle": "Ons Portfolio",
+    "statement": "Onze projecten zijn voorbeelden van houdingen in plaats van ontwerpen.",
+    "description": "Bij WAWA Interiors transformeren we visies in werkelijkheid. Elk project in ons portfolio vertegenwoordigt onze toewijding aan excellentie, creativiteit en aandacht voor detail. Van residentiële ruimtes die aanvoelen als thuis tot commerciële omgevingen die productiviteit inspireren, ontwerpen we interieurs die levens verbeteren en de unieke identiteiten van onze klanten weerspiegelen. Onze diverse projecten tonen onze veelzijdigheid en expertise op verschillende sectoren, wat onze aanpassingsvermogen aan verschillende stijlen en vereisten aantoont, terwijl we onze kenmerkende kwaliteit en vakmanschap behouden.",
+    "viewProject": "Bekijk Project",
+    "filterAll": "Alles",
+    "filterArchitecture": "Architectuur",
+    "filterInterior": "Interieur",
+    "filterLandscape": "Landschap",
+    "filterResidential": "Woning",
+    "filterOffice": "Kantoor",
+    "filterCafe": "Café & Restaurant",
+    "filterClinic": "Kliniek & Gezondheidszorg",
+    "filterRetail": "Winkel",
+    "detail": {
+      "client": "Klant",
+      "location": "Locatie",
+      "year": "Jaar",
+      "category": "Categorie",
+      "description": "Projectbeschrijving",
+      "relatedProjects": "Gerelateerde Projecten",
+      "backToProjects": "Terug naar Projecten"
+    },
+    "maddiesCucina": {
+      "title": "Maddie's Cucina",
+      "description": "Als Wawa Interieur Design Studio bieden we met het interieur architectuurproject dat we hebben voltooid voor Maddie's Cucina cafe een moderne en uitnodigende cafe-ervaring. In dit project combineerden we comfort en esthetiek om een ruimte te creëren die gasten zowel visueel als emotioneel verrukt. Ons ontwerpteam heeft innovatieve oplossingen geïntegreerd die de warme en gezellige sfeer van Maddie's Cucina benadrukken, waardoor elke hoek van de ruimte een speciale touch krijgt. Maddie's Cucina valt op door zijn moderne en elegante interieurontwerp. De ruime zitplaatsen, comfortabele meubels en verfijnde decoratieve elementen bieden bezoekers een aangename ervaring. Door het gebruik van natuurlijk licht te maximaliseren, creëerden we een lichte en luchtige omgeving, terwijl de geselecteerde materialen en kleurenpalet bijdragen aan een warme sfeer. Als Wawa Interieur Design Studio zijn we trots op het bieden van een ruimte bij Maddie's Cucina waar klanten kunnen genieten van zowel heerlijk eten als een esthetisch aangename sfeer. Dit interieur architectuurproject is verrijkt met unieke ontwerpdetails die de merkidentiteit en gastvrijheid van Maddie's Cucina weerspiegelen. Als Wawa Interieur Design Studio blijven we het succes van Maddie's Cucina in modern cafe-ontwerp ondersteunen met onze innovatieve en functionele interieurontwerp oplossingen."
+    },
+    "gurmeBahcesehir": {
+      "title": "Gurme Bahçeşehir Restaurant",
+      "description": "Gelegen in het hart van Bahçeşehir, biedt Gurme Bahçeşehir Restaurant een unieke gastronomische ervaring die elegantie en comfort combineert. Als Wawa Interieur Design Studio was ons doel bij het ontwerpen van de interieur architectuur van dit speciale restaurant om heerlijke keuken samen te brengen met een esthetisch aangename sfeer voor onze gasten. Elke hoek van het restaurant bevat zorgvuldig geplande details van ons ontwerpteam om een moderne en uitnodigende omgeving te creëren. Gurme Bahçeşehir Restaurant valt op door zijn ruime zitplaatsen, elegante decoratieve elementen en comfortabele meubels. Door optimaal gebruik te maken van natuurlijk licht, creëerden we een warme en uitnodigende sfeer. Dit interieur architectuurproject, verrijkt met hoogwaardige materialen en verfijnde ontwerpdetails, biedt een ervaring die zowel het oog als de smaak aanspreekt. Als Wawa Interieur Design Studio streefden we ernaar modern restaurantontwerp te combineren met functionaliteit om onze gasten een onvergetelijke eetervaring te bieden. Gurme Bahçeşehir Restaurant is trots op het bieden van niet alleen heerlijke maaltijden maar ook een esthetisch bevredigende ruimte. Als Wawa Interieur Design Studio hebben we de elegantie en het comfort van het restaurant tot het hoogste niveau verheven door de fijnste details van modern interieurontwerp te integreren. In deze speciale locatie in Bahçeşehir kunt u genieten van fijne smaken in een stijlvolle en verfijnde sfeer."
+    },
+    "halideAkinci": {
+      "title": "Halide Akıncı Kliniek",
+      "description": "Als Wawa Interieur Design Studio valt het interieur architectuurproject dat we hebben voltooid voor de Halide Akıncı Kliniek op als een toonaangevend voorbeeld van modern kliniekontwerp. Ons interieurontwerpteam heeft dit project zorgvuldig gepland en geïmplementeerd met als doel patiënten een comfortabele en vredige omgeving voor behandeling te bieden. Het interieurontwerp van de kliniek combineert naadloos esthetiek en functionaliteit, waardoor een perfecte balans tussen beide wordt geboden. In ons Halide Akıncı Kliniek Ontwerpproject creëerden we ruime en lichte gebieden om maximaal comfort te garanderen voor zowel patiënten als personeel. De wachtruimtes, behandelkamers en alle andere kliniekruimtes werden zorgvuldig ontworpen om een moderne en steriele omgeving te bieden. Dit interieurontwerpproject, verrijkt met hoogwaardige materialen en innovatieve ontwerpoplossingen, toont opnieuw onze expertise in kliniekontwerp. Als Wawa Interieur Design Studio hebben we onze ervaring in interieur- en kliniekontwerp op de best mogelijke manier weerspiegeld bij Halide Akıncı Kliniek."
+    },
+    "fulyaClinic": {
+      "title": "Fulya Kliniek",
+      "description": "Als Wawa Interieur Design Studio hebben we een moderne en functionele gezondheidszorgruimte gecreëerd met ons zorgvuldig ontworpen interieur architectuurproject voor een tandartspraktijk gelegen in Fulya, Istanbul. Door prioriteit te geven aan patiëntcomfort en behandelingsprocessen, combineerden we esthetiek en ergonomie in dit project. Elk gebied van de kliniek werd zorgvuldig gepland en uitgevoerd om een gebruiksvriendelijke en kalmerende omgeving te bieden. Ons interieurontwerpteam creëerde een ruime en gastvrije sfeer in de kliniek door innovatieve oplossingen en hoogwaardige materialen te integreren. De wachtruimtes waren ingericht om een ontspannende en stressverlagende omgeving voor patiënten te bieden, terwijl de behandelkamers waren uitgerust met de nieuwste technologie om een moderne en steriele setting te garanderen. Dit tandartspraktijkproject in Fulya staat als een uitstekend voorbeeld van zowel esthetisch als functioneel ontwerp, wat opnieuw het succes van onze interieurontwerpprojecten toont."
+    },
+    "tatbikiOffice": {
+      "title": "Tatbik-i Kantoor Project",
+      "description": "Als Wawa Interieur Design Studio hebben we met het Tatbik-i Kantoor Project een innovatief interieur architectuurproject ontworpen dat de werelden van onderwijs en bedrijfsleven samenbrengt in een universitaire setting. Dit project combineert modern kantoorontwerp met educatieve ruimtes, waardoor een inspirerende en functionele omgeving wordt geboden voor zowel studenten als professionals. Ons ontwerpteam gaf prioriteit aan esthetiek en functionaliteit, waarbij het gebruik van open kantoor- en educatieve gebieden werd geoptimaliseerd om maximale efficiëntie te garanderen. Het Tatbik-i Kantoor Project kenmerkt zich door een unieke ontwerpaanpak die ruime open kantoorgebieden combineert met moderne educatieve klaslokalen. In dit project werden flexibele en multifunctionele meubel- en decoratieoplossingen gekozen om aan de behoeften van beide ruimtes te voldoen. Uitgerust met hoogwaardige materialen en ergonomische ontwerpen, verhoogt dit interieur architectuurproject zowel werk- als leeromgevingen tot het hoogste niveau. Als Wawa Interieur Design Studio zijn we trots op het presenteren van onze moderne interieur architectuur oplossingen in het Tatbik-i Kantoor Project, ontworpen om efficiënt werk en educatieve processen binnen een universitaire setting te ondersteunen. Dit project dient als een ontmoetingspunt voor onderwijs en bedrijfsleven, waardoor gebruikers een inspirerende en comfortabele ruimte wordt geboden."
+    },
+    "mbResidential": {
+      "title": "M.B Woonontwerp en Uitvoering",
+      "description": "M.B Woonontwerp en Uitvoering is een prestigieus villa-ontwerpproject dat een perfecte mix biedt van tijdloze esthetiek en moderne architectuur. Als Wawa Interieur Design Studio was ons doel in dit project om hedendaagse lijnen te combineren met luxe details, waardoor onze klanten superieur comfort en elegantie krijgen. Dankzij onze zorgvuldig geselecteerde materialen en innovatieve ontwerpaanpak biedt M.B Woonontwerp een leefruimte die zijn waarde zal behouden en jarenlang stijlvol zal blijven. M.B Woonontwerp en Uitvoering biedt gebruikers een prestigieuze villa-ervaring met ruime en luchtige leefruimtes. Ontworpen om te voldoen aan de behoeften van het moderne leven, valt dit project op het hoogste niveau op, zowel qua esthetiek als functionaliteit. Uitgerust met slimme huistechnologieën en duurzame materialen, bieden deze villa's een veilige, energiezuinige en comfortabele leefomgeving. Als Wawa Interieur Design Studio is ons doel met dit project, dat tijdloos ontwerp en moderniteit op het hoogste niveau weerspiegelt, om een verschil te maken op het gebied van prestigieus villa-ontwerp."
+    },
+    "caddebostan": {
+      "title": "Caddebostan Woonproject",
+      "description": "Als Wawa Interieur Design Studio brengen we de elegantie en het comfort van modern wonen samen met ons woonproject in Caddebostan. Dit exclusieve interieur architectuurproject werd zorgvuldig gepland en tot leven gebracht door ons expert ontwerpteam met een innovatieve aanpak. Door naadloos esthetiek en functionaliteit te combineren, hebben we een van de beste voorbeelden van modern woonontwerp in dit project gecreëerd. Het Caddebostan Woonproject valt op door zijn interieur architectonische details. Ruime en luchtige leefruimtes zijn ingericht met esthetische en functionele meubels, waardoor gebruikerscomfort wordt gemaximaliseerd. De stijlvolle en functionele keukens, moderne en ontspannende slaapkamers en sociale ruimtes weerspiegelen onze expertise in interieurontwerp. Dit interieur architectuurproject, verrijkt met hoogwaardige materialen en verfijnde ontwerpelementen, combineert luxe en comfort in elk detail. Als Wawa Interieur Design Studio tonen we in dit interieur architectuurproject in Caddebostan onze expertise in modern woonontwerp en interieur architectuur door naadloos esthetiek en functionaliteit in uw leefruimtes te combineren. Met onze innovatieve aanpak van interieurontwerp opent het Caddebostan Woonproject de deuren naar een comfortabele en stijlvolle leefervaring."
+    },
+    "germanyResidential": {
+      "title": "Het Duitsland Woonproject",
+      "description": "Als Wawa Interieur Design Studio herdefiniëren we het nieuwe gezicht van modern wonen met ons woonproject in Duitsland. Dit interieur architectuurproject combineert naadloos elegantie en functionaliteit in elk detail. Ons expert ontwerpteam bracht dit project tot leven met creatieve en innovatieve oplossingen. Door prioriteit te geven aan comfort en esthetiek, hebben we een van de beste voorbeelden van modern villa-ontwerp gecreëerd. Het Duitsland Woonproject biedt een ruime en lichte leefomgeving, terwijl het gebruik van hoogwaardige materialen en verfijnde ontwerpdetails luxe uitstraalt. Elke hoek van dit project weerspiegelt sporen van moderne kunst, waardoor bewoners een leefruimte krijgen die zowel esthetisch aangenaam als functioneel is. Met onze innovatieve interieurontwerp oplossingen creëren we niet alleen een huis maar een levensstijl. Als Wawa Interieur Design Studio verleggen we met dit exclusieve woonproject in Duitsland de grenzen van modern villa-ontwerp en brengen we een frisse kijk op onze interieur architectuurprojecten."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Laatste Nieuws & Inzichten",
+    "readMore": "Lees Meer",
+    "noPosts": "Nog geen blogposts. Kom binnenkort terug!",
+    "admin": {
+      "title": "Admin - Blog Beheer",
+      "addPost": "Nieuwe Post Toevoegen",
+      "editPost": "Post Bewerken",
+      "deletePost": "Post Verwijderen",
+      "titleLabel": "Titel",
+      "contentLabel": "Inhoud",
+      "excerptLabel": "Samenvatting",
+      "imageLabel": "Afbeelding URL",
+      "categoryLabel": "Categorie",
+      "save": "Opslaan",
+      "cancel": "Annuleren",
+      "login": "Inloggen",
+      "password": "Wachtwoord",
+      "loginButton": "Inloggen",
+      "logout": "Uitloggen"
+    }
+  },
+  "contact": {
+    "title": "Contacteer Ons",
+    "subtitle": "Neem Contact Op",
+    "heroQuote": "Laten we samen iets moois creëren. Neem contact op en laten we het gesprek beginnen.",
+    "address": "Adres",
+    "addressLine1": "Herengracht 280,",
+    "addressLine2": "Amsterdam, 1016 BX,",
+    "addressLine3": "Nederland",
+    "openingHours": "Openingstijden",
+    "hoursWeekday": "Maandag - Vrijdag: 9:00 - 17:00",
+    "hoursSaturday": "Zaterdag: 11:00 - 16:00",
+    "hoursSunday": "Zondag: Gesloten",
+    "email": "E-mail",
+    "phone": "Telefoon",
+    "socials": "Social Media",
+    "form": {
+      "title": "Stuur Ons een Bericht",
+      "name": "Naam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "subject": "Onderwerp",
+      "message": "Bericht",
+      "send": "Verstuur Bericht"
+    }
+  },
+  "quote": {
+    "title": "Offerte Aanvragen",
+    "subtitle": "Vraag Uw Gratis Consultatie Aan",
+    "form": {
+      "title": "Offerte Aanvragen",
+      "subtitle": "Vul het onderstaande formulier in en we nemen zo spoedig mogelijk contact met u op.",
+      "name": "Volledige Naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "service": "Diensttype",
+      "projectType": "Projecttype",
+      "budget": "Budgetbereik",
+      "timeline": "Tijdlijn",
+      "message": "Projectdetails",
+      "submit": "Verzoek Indienen",
+      "selectService": "Selecteer een dienst",
+      "selectBudget": "Selecteer budgetbereik",
+      "selectTimeline": "Selecteer tijdlijn",
+      "registerCheckbox": "Als lid kunt u het project live volgen, stap voor stap, inclusief wijzigingen in offertes en overeenkomsten.",
+      "password": "Wachtwoord",
+      "address": "Adres"
+    },
+    "success": "Bedankt! We nemen binnenkort contact met u op."
+  },
+  "footer": {
+    "description": "Mooie interieurs creëren die levens transformeren.",
+    "quickLinks": "Snelle Links",
+    "services": "Diensten",
+    "contact": "Contact",
+    "followUs": "Volg Ons",
+    "rights": "Alle rechten voorbehouden."
+  }
+}
+

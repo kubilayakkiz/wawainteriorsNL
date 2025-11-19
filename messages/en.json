@@ -1,0 +1,387 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Our Projects",
+    "services": "Our Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "quote": "Get Quote",
+    "clientPanel": "Client Panel"
+  },
+  "home": {
+    "title": "Wawa Interiors",
+    "subtitle": "Transforming Spaces into Masterpieces",
+    "description": "We create beautiful, functional interiors that reflect your style and enhance your lifestyle.",
+    "cta": "Explore Our Work",
+    "servicesTitle": "Our Services",
+    "projectsTitle": "Featured Projects",
+    "projectsSubtitle": "PROJECTS",
+    "testimonialsTitle": "What Our Clients Say",
+    "processTitle": "OUR PROCESS",
+    "processSubtitle": "How We Work",
+    "processAnalysis": {
+      "title": "Analysis",
+      "description": "We start by understanding your needs, preferences, and lifestyle. Our team conducts a thorough analysis of your space and requirements."
+    },
+    "processProposal": {
+      "title": "Proposal",
+      "description": "Based on our analysis, we create a detailed proposal with design concepts, timelines, and budget estimates tailored to your project."
+    },
+    "processDesign": {
+      "title": "Design",
+      "description": "Our designers create comprehensive plans, 3D visualizations, and detailed specifications that bring your vision to life."
+    },
+    "processExecution": {
+      "title": "Execution",
+      "description": "We manage the entire implementation process, ensuring quality craftsmanship and timely completion of your project."
+    },
+    "processSlider": {
+      "title": "WORKING",
+      "subtitle": "Our Process",
+      "step1": {
+        "title": "Project Planning with Client",
+        "description": "We believe in collaborative design. Our process begins with understanding your vision, needs, and lifestyle. Together, we create spaces that not only look beautiful but also function perfectly for your daily life."
+      },
+      "step2": {
+        "title": "Design Development",
+        "description": "Our designers work closely with you to develop comprehensive design concepts. We create detailed plans, 3D visualizations, and mood boards that bring your vision to life."
+      },
+      "step3": {
+        "title": "Material Selection",
+        "description": "We carefully select materials, finishes, and furnishings that align with your style and budget. Quality and sustainability are at the forefront of our material choices."
+      },
+      "step4": {
+        "title": "Final Implementation",
+        "description": "Our experienced team manages every aspect of implementation, ensuring quality craftsmanship and timely completion. We coordinate with contractors and suppliers to deliver exceptional results."
+      },
+      "navPlanning": "Planning",
+      "navDesign": "Design",
+      "navMaterials": "Materials",
+      "navExecution": "Execution"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Interior Design Solutions",
+    "heroQuote": "Design is not just what it looks like and feels like. Design is how it works.",
+    "heroDescription": "As an interior designer you design for the present, with an awareness of the past, for a future which is essentially unknown.",
+    "learnMore": "Learn More",
+    "backToServices": "Back to Services",
+    "relatedProjects": "Related Projects",
+    "ctaDescription": "Let's discuss your project and bring your vision to life. Contact us today for a free consultation.",
+    "faqTitle": "Frequently Asked Questions",
+    "introTitle": "Our Services",
+    "introStatement": "Wawa Interior Architecture Office offers comprehensive interior design and execution services, transforming spaces into functional and aesthetically pleasing environments that reflect your unique vision and lifestyle.",
+    "introText1": "With expertise spanning residential, commercial, and hospitality sectors, we deliver end-to-end solutions from initial concept development to final implementation. Our approach combines innovative design thinking with practical functionality.",
+    "introText2": "Each project is tailored to meet the specific needs of our clients, ensuring that every space we design not only looks exceptional but also enhances the daily lives and experiences of those who use it.",
+    "aboutTitle": "About Us",
+    "aboutSubtitle": "To provide meaningful architecture is not to parody history, but to articulate it.",
+    "aboutDescription": "At Wawa Interiors, we specialize in transforming spaces into beautiful, functional environments that enhance the lives of our clients. Our team combines creativity with technical expertise to deliver exceptional results.",
+    "residential": {
+      "title": "Residential Design & Execution",
+      "description": "Transform your home into a personalized sanctuary that reflects your unique style and lifestyle.",
+      "heroTitle": "Residential Design & Execution",
+      "heroSubtitle": "Creating Homes That Reflect Your Lifestyle",
+      "overview": "At WAWA Interiors, we understand that your home should be a true reflection of who you are. Our residential design services combine aesthetics, comfort, and functionality — turning ordinary living spaces into extraordinary environments.",
+      "overview2": "With our end-to-end approach, we manage every stage from concept to final touches, delivering a seamless and stress-free experience.",
+      "whatWeOffer": "What We Offer",
+      "service1": "Personalized interior concepts tailored to your lifestyle",
+      "service2": "Smart space planning for both small and large homes",
+      "service3": "Selection of high-quality materials, furniture & finishes",
+      "service4": "Coordination with trusted contractors and craftsmen",
+      "service5": "Timely project execution with attention to detail",
+      "approachTitle": "How We Approach Residential Interiors",
+      "approachText": "At WAWA Interiors, we don't just decorate spaces — we design how people live. Our process begins with understanding your lifestyle, needs, and dreams. Then, we shape your interiors around comfort, flow, and visual harmony.",
+      "approachText2": "Whether it's a full home renovation or refreshing a single room, our designs bring balance, purpose, and personality to every corner.",
+      "approach1": "In-depth client consultation & space analysis",
+      "approach2": "Moodboard and layout proposals tailored to your taste",
+      "approach3": "Sustainable material and product selection",
+      "approach4": "Clear project timelines and transparent budgeting",
+      "approach5": "Precise coordination from demolition to décor",
+      "cta": "Ready to transform your home?",
+      "ctaButton": "Get a Free Quote"
+    },
+    "office": {
+      "title": "Office Interior Design Project",
+      "description": "Create productive and inspiring workspaces that enhance employee well-being and company culture.",
+      "heroTitle": "Office Interior Design Project",
+      "heroSubtitle": "Tailored Designs That Boost Productivity and Reflect Your Brand",
+      "overview": "At WAWA Interiors, we specialize in designing office spaces that enhance productivity while reflecting your brand's identity. By combining aesthetics and functionality, our expert team creates inspiring, efficient, and comfortable work environments. We focus on ergonomic furniture, smart spatial planning, and proper lighting to develop modern office interiors that support motivation and optimize workflow. Each office design is uniquely tailored to your company's needs, vision, and work culture.",
+      "approachTitle": "Office Design: Where Function Meets Inspiration",
+      "approachText": "We believe your office should be more than just a workspace — it should be a motivating, creative, and efficient environment. Through our custom office interior design solutions, we help shape professional spaces that embody your brand's values and prepare your business for the future.",
+      "faq1": "What is WAWA Interiors' approach to office interior design?",
+      "faq1Answer": "We prioritize functionality and employee comfort. By optimizing the flow of the space, we create layouts that streamline processes and boost motivation. At the same time, we emphasize aesthetics to design professional-looking offices that reflect your brand identity.",
+      "faq2": "What factors help increase office productivity through design?",
+      "faq2Answer": "Key factors include ergonomic furniture, optimal use of natural light, dedicated quiet zones, and smart storage solutions. Flexible layouts such as open-plan and collaborative spaces also foster interaction and enhance efficiency.",
+      "faq3": "What steps do you follow in an office interior design project?",
+      "faq3Answer": "We begin with a detailed analysis of your needs and expectations. Based on this, we develop concept designs tailored to your space. Once the design is approved, we proceed to planning and implementation while maintaining constant communication with you to ensure an outstanding result.",
+      "faq4": "How is brand identity incorporated into office design?",
+      "faq4Answer": "We incorporate your brand identity through color schemes, materials, furniture selection, and spatial design. Every element is chosen to reflect your company's values and create a cohesive brand experience throughout the office space.",
+      "cta": "Ready to redesign your workspace?",
+      "ctaButton": "Get a Free Quote"
+    },
+    "cafe": {
+      "title": "Café & Restaurant Design",
+      "description": "Design inviting dining spaces that create memorable experiences for your guests.",
+      "heroTitle": "Café & Restaurant Design",
+      "heroSubtitle": "Designing Atmospheres That Delight and Inspire",
+      "overview": "At WAWA Interiors, we create unforgettable cafés and restaurants by combining aesthetics, comfort, and functionality. Every project is tailored to fit the concept and target audience of the venue — crafting spaces where your guests feel special and eager to return.",
+      "overview2": "Our approach goes beyond visual appeal. We design layouts that streamline workflow and enhance customer satisfaction. From spatial planning and lighting design to material and color selection, every element is thoughtfully chosen to give each project its own distinct identity. Our goal is to craft not just a dining space, but a vibrant social environment that embodies your brand's essence.",
+      "overview3": "With our creative and innovative approach, we turn every space into a one-of-a-kind experience, enrich customer interaction, and support your business success.",
+      "approachTitle": "Defining the Style Through Design",
+      "approachText": "Café decoration is more than arranging tables and adding decorative items. To create loyal guests, you need to offer more. This means analyzing customer behavior and designing the space in a way that fulfills their needs efficiently and intuitively.",
+      "approachText2": "When defining a concept, all design elements must align with it. For instance, if you're creating a nostalgic setting, visible modern decorative features should be avoided. The spirit of the era should be portrayed consistently and realistically across the entire venue.",
+      "faq1": "What services does WAWA Interiors offer in café and restaurant design?",
+      "faq1Answer": "We offer comprehensive services including concept development, space planning, material and color selection, kitchen layout planning, furniture arrangement, and full project management. Every project is customized to reflect your brand identity and enhance customer experience.",
+      "faq2": "What are the key elements in café and restaurant design?",
+      "faq2Answer": "Key priorities include a clear concept, customer flow, comfort, and aesthetic appeal. Lighting, seating arrangement, color palettes, and decorative accents must create a welcoming and relaxing atmosphere. The design should also reflect your brand's spirit and build an emotional connection with guests.",
+      "faq3": "What should be considered when defining a design concept for a café?",
+      "faq3Answer": "When defining a concept, it's important to consider your target audience, location, and brand identity. The concept sets the tone of the space, and all design elements should support it. For example, if aiming for a vintage feel, avoid modern components and select furniture, accessories, and colors that best represent the chosen era.",
+      "faq4": "How does café and restaurant design impact customer experience?",
+      "faq4Answer": "Effective design directly enhances the customer experience. Proper seating, lighting, and ambiance make guests feel comfortable and encourage repeat visits. Moreover, functional layouts help staff work more efficiently, improving service quality and contributing to overall business success.",
+      "cta": "Ready to create an unforgettable dining space?",
+      "ctaButton": "Get a Free Quote"
+    },
+    "clinic": {
+      "title": "Clinic Design & Fit-Out",
+      "description": "Create healing environments that prioritize patient comfort and medical efficiency.",
+      "heroTitle": "Clinic Design & Fit-Out",
+      "heroSubtitle": "Functional, Hygienic, and Patient-Centered Interiors for Healthcare Spaces",
+      "overview": "At WAWA Interiors, we specialize in clinic design and implementation, offering tailored solutions that blend aesthetics with functionality for the healthcare sector. Clinic environments—whether general or dental—must prioritize hygiene, comfort, safety, and efficient workflow. Every project is carefully planned to meet both patient and practitioner needs, from lighting and ergonomic layout to material selection and color schemes.",
+      "overview2": "We aim to create modern, welcoming, and reliable treatment environments that ease the healing process and enhance the experience for patients and staff alike.",
+      "approachTitle": "Our Design-Clinic Approach",
+      "approachText": "We combine function and form to deliver healthcare interiors that meet the highest standards. Every clinic design project begins with listening—understanding your needs and shaping custom, brand-aligned concepts. Using top-quality materials and hygienic solutions, we build spaces that support the delivery of excellent medical care.",
+      "approachText2": "With extensive industry experience, we create thoughtful spaces that reflect your values and elevate your services—making your clinic not only more efficient, but more inviting.",
+      "faq1": "Why is clinic design important?",
+      "faq1Answer": "Clinic design plays a vital role in creating safe, comfortable, and functional environments for both patients and healthcare professionals. Well-designed clinics support patient relaxation and staff efficiency, while enhancing the flow and effectiveness of treatment processes.",
+      "faq2": "What are the key elements in dental clinic design?",
+      "faq2Answer": "Dental clinic design focuses on hygiene, ergonomics, and patient comfort. Critical elements include lighting, sterile zones, the layout of waiting areas, and the practicality of treatment rooms. Creating a clean, modern, and reassuring atmosphere is essential to patient trust and care delivery.",
+      "faq3": "What are the main steps in the clinic design process?",
+      "faq3Answer": "The process begins with a needs assessment and concept development. This is followed by spatial planning, selection of materials and colors, and technical drawing. After design approval, the implementation and installation phase begins, ending with final inspections and handover.",
+      "faq4": "What are the benefits of the \"design clinic\" approach?",
+      "faq4Answer": "A design-clinic mindset merges aesthetics and functionality, ensuring that the space meets both patient and staff needs. This approach results in clinics that are modern, efficient, and welcoming. A well-designed environment also improves patient satisfaction, strengthens brand reputation, and enhances operational success.",
+      "cta": "Ready to design your healthcare facility?",
+      "ctaButton": "Get a Free Quote"
+    },
+    "retail": {
+      "title": "Store Design & Execution",
+      "description": "Design retail spaces that attract customers and enhance the shopping experience.",
+      "heroTitle": "Store Design & Execution",
+      "heroSubtitle": "Elevating Your Brand Identity and Customer Experience",
+      "overview": "We offer solutions that elevate your brand identity and customer experience to the highest level. A store is not merely a point of sale — it is a space that tells your brand's story and builds a strong connection with your customers. Our design process meticulously addresses every element, from spatial details to your brand's overall aesthetic.",
+      "overview2": "From concept development to spatial planning, material and color selection, and lighting design, we provide creative solutions at every stage. Our goal is to ensure your store is not only visually stunning but also functional and welcoming. With smart layouts, impactful displays, and engaging interiors, we aim to create memorable and enjoyable shopping experiences.",
+      "overview3": "At WAWA Interiors, we turn your store into more than a retail space — we turn it into a true showcase of your brand.",
+      "approachTitle": "Store Design",
+      "approachText": "We turn store design into an art form. Every store should reflect the soul of your brand, engage customers, and offer a memorable shopping experience. From concept creation to final implementation, we are there at every step, bringing original ideas to life.",
+      "approachText2": "By blending aesthetics with functionality, we create not just a point of sale, but a destination your customers will want to visit again and again. With every detail, we craft innovative and eye-catching designs that make your brand feel alive in every corner of the space.",
+      "faq1": "What services does WAWA Interiors offer in store design?",
+      "faq1Answer": "We offer end-to-end services in store design including concept development, spatial planning, material and color selection, lighting design, window display design, and full project management. Every project is tailored to reflect your brand identity and enhance the customer experience.",
+      "faq2": "What stages are involved in the store design process?",
+      "faq2Answer": "The process starts with identifying your brand's needs and goals. Then, we move on to concept development, including spatial planning, material choices, color palettes, and lighting design. After approval, we begin implementation and complete the project within the agreed timeline.",
+      "faq3": "What are the most important elements you focus on as interior designers?",
+      "faq3Answer": "We focus on ergonomic layouts that guide customer flow, aesthetic elements that reflect your brand identity, the right choice of materials and colors, impactful lighting design, and functional touches. Our goal is to create a space that is both visually appealing and highly functional.",
+      "faq4": "How does store design impact sales performance?",
+      "faq4Answer": "A well-designed store enhances the customer experience and increases sales performance. Effective layouts, engaging window displays, smart lighting, and brand-aligned interiors encourage customers to stay longer and shop more. Interior design plays a direct role in customer satisfaction and brand loyalty.",
+      "cta": "Ready to transform your retail space?",
+      "ctaButton": "Get a Free Quote"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Crafting Beautiful Interiors Since Day One",
+    "heroQuote": "One of the great beauties of architecture is that each time, it is like life starting all over again.",
+    "aboutUs": {
+      "title": "Who We Are",
+      "statement": "Wawa Interior Architecture Office prioritizes the emotions of a space, the movements of the individuals living within it, and its purpose when designing living spaces.",
+      "text1": "Wawa Interior Architecture Office is an Istanbul-based interior architecture firm that believes design has a unique ability, emphasizing functionality and interaction within spaces.",
+      "text2": "Our interior architecture office begins with target audience analysis for a living space, continues with the planning of nuances such as functional design within the space and interaction design between individuals. With this planning, the project advances to the design phase that responds to the demands of that target audience."
+    },
+    "ourApproach": {
+      "title": "Our approach",
+      "statement": "We combine your expectations, tastes, and lifestyle with our design and production team, adding color to your living space and touching your soul.",
+      "text1": "In the project design phase, every detail used in the space is determined. The process, which begins with concept design, continues with project design, project implementation, and supervision.",
+      "text2": "By keeping aesthetics and functionality at the forefront, we not only design your living spaces but also design your commercial spaces and social living areas, making them different from their counterparts. In every project where we take the idea generation step, we bring you together with original and inspiring designs by using innovations and functionality in an enjoyable way."
+    },
+    "philosophy": {
+      "title": "Philosophy",
+      "statement": "We believe that design has a unique ability, emphasizing functionality and interaction within spaces.",
+      "text1": "At Wawa Interior Architecture, we prioritize the emotions of a space, the movements of the individuals living within it, and its purpose when designing living spaces. Our approach begins with understanding the essence of each space and the people who will inhabit it.",
+      "text2": "We create spaces that not only meet functional needs but also inspire and enhance the quality of life. Every project is an opportunity to blend innovation with functionality, creating unique and inspiring designs that reflect the individuality of each client."
+    },
+    "awards": {
+      "title": "AWARDS",
+      "timeline": "2005 - Current",
+      "award1": "2A Continental Architectural Awards",
+      "award1Category": "Residential Project",
+      "description": "We are proud to have been recognized for our outstanding work in residential architecture. Our commitment to excellence and innovation has earned us prestigious awards and the trust of clients across the region."
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Meet the talented individuals behind Wawa Interiors",
+      "canberk": {
+        "name": "Canberk Y.",
+        "role": "Lead Architect"
+      },
+      "erdem": {
+        "name": "Erdem D.",
+        "role": "Interior Designer"
+      },
+      "muge": {
+        "name": "Müge D.",
+        "role": "Project Manager"
+      },
+      "zehra": {
+        "name": "Zehra A.",
+        "role": "Design Consultant"
+      }
+    },
+    "mission": "Our Mission",
+    "missionText": "To transform spaces into beautiful, functional environments that enhance the lives of our clients.",
+    "vision": "Our Vision",
+    "visionText": "To be the leading interior design firm known for creativity, quality, and exceptional service.",
+    "values": "Our Values",
+    "value1": "Creativity & Innovation",
+    "value2": "Quality & Excellence",
+    "value3": "Client Satisfaction",
+    "value4": "Sustainability"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Our Portfolio",
+    "statement": "Our projects are examples of attitudes rather than designs.",
+    "description": "At WAWA Interiors, we transform visions into reality. Each project in our portfolio represents our commitment to excellence, creativity, and attention to detail. From residential spaces that feel like home to commercial environments that inspire productivity, we design interiors that enhance lives and reflect our clients' unique identities. Our diverse range of projects showcases our versatility and expertise across different sectors, demonstrating our ability to adapt to various styles and requirements while maintaining our signature quality and craftsmanship.",
+    "viewProject": "View Project",
+    "filterAll": "All",
+    "filterArchitecture": "Architecture",
+    "filterInterior": "Interior",
+    "filterLandscape": "Landscape",
+    "filterResidential": "Residential",
+    "filterOffice": "Office",
+    "filterCafe": "Cafe & Restaurant",
+    "filterClinic": "Clinic & Healthcare",
+    "filterRetail": "Retail",
+    "detail": {
+      "client": "Client",
+      "location": "Location",
+      "year": "Year",
+      "category": "Category",
+      "description": "Project Description",
+      "relatedProjects": "Related Projects",
+      "backToProjects": "Back to Projects"
+    },
+    "maddiesCucina": {
+      "title": "Maddie's Cucina",
+      "description": "As Wawa Interior Design Studio, with the interior architecture project we completed for Maddie's Cucina cafe, we offer a modern and inviting cafe experience. In this project, we combined comfort and aesthetics to create a space that delights guests both visually and emotionally. Our design team incorporated innovative solutions that emphasize the warm and cozy atmosphere of Maddie's Cucina, providing a special touch to every corner of the space. Maddie's Cucina stands out with its modern and elegant interior design. The spacious seating areas, comfortable furniture, and refined decorative elements provide visitors with an enjoyable experience. By maximizing the use of natural light, we created a bright and airy environment, while the selected materials and color palette contribute to a warm atmosphere. As Wawa Interior Design Studio, we take pride in offering a space at Maddie's Cucina where customers can enjoy both delicious food and an aesthetically pleasing ambiance. This interior architecture project is enriched with unique design details that reflect Maddie's Cucina's brand identity and hospitality. As Wawa Interior Design Studio, we continue to support Maddie's Cucina's success in modern cafe design with our innovative and functional interior design solutions."
+    },
+    "gurmeBahcesehir": {
+      "title": "Gurme Bahçeşehir Restaurant",
+      "description": "Located in the heart of Bahçeşehir, Gurme Bahçeşehir Restaurant offers a unique gastronomic experience that combines elegance and comfort. As Wawa Interior Design Studio, our goal in designing the interior architecture of this special restaurant was to bring together delicious cuisine with an aesthetically pleasing atmosphere for our guests. Every corner of the restaurant features carefully planned details by our design team to create a modern and inviting environment. Gurme Bahçeşehir Restaurant stands out with its spacious seating areas, elegant decorative elements, and comfortable furniture. By making the most of natural light, we created a warm and inviting atmosphere. This interior architecture project, enriched with high-quality materials and sophisticated design details, offers an experience that appeals to both the eyes and the palate. As Wawa Interior Design Studio, we aimed to combine modern restaurant design with functionality to provide our guests with an unforgettable dining experience. Gurme Bahçeşehir Restaurant takes pride in offering not only delicious meals but also an aesthetically satisfying space. As Wawa Interior Design Studio, we elevated the elegance and comfort of the restaurant to the highest level by incorporating the finest details of modern interior design. In this special venue in Bahçeşehir, you can enjoy gourmet flavors in a stylish and refined atmosphere."
+    },
+    "halideAkinci": {
+      "title": "Halide Akıncı Clinic",
+      "description": "As Wawa Interior Design Studio, the interior architecture project we completed for the Halide Akıncı Clinic stands out as a leading example of modern clinic design. Our interior design team meticulously planned and implemented this project with the aim of providing patients with a comfortable and peaceful environment for treatment. The clinic's interior design seamlessly combines aesthetics and functionality, offering a perfect balance between the two. In our Halide Akıncı Clinic Design project, we created spacious and bright areas to ensure maximum comfort for both patients and staff. The waiting areas, treatment rooms, and all other clinic spaces were carefully designed to provide a modern and sterile environment. This interior design project, enriched with high-quality materials and innovative design solutions, once again showcases our expertise in clinic design. As Wawa Interior Design Studio, we have reflected our experience in interior and clinic design in the best way possible at Halide Akıncı Clinic."
+    },
+    "fulyaClinic": {
+      "title": "Fulya Clinic",
+      "description": "As Wawa Interior Design Studio, we created a modern and functional healthcare space with our carefully designed interior architecture project for a dental clinic located in Fulya, Istanbul. Prioritizing patient comfort and treatment processes, we combined aesthetics and ergonomics in this project. Every area of the clinic was meticulously planned and executed to provide a user-friendly and calming environment. Our interior design team created a spacious and welcoming atmosphere in the clinic by incorporating innovative solutions and high-quality materials. The waiting areas were arranged to provide a relaxing and stress-reducing environment for patients, while the treatment rooms were equipped with the latest technology to ensure a modern and sterile setting. This dental clinic project in Fulya stands as an excellent example of both aesthetic and functional design, showcasing once again the success of our interior design projects."
+    },
+    "tatbikiOffice": {
+      "title": "Tatbik-i Office Project",
+      "description": "As Wawa Interior Design Studio, with the Tatbik-i Office Project, we designed an innovative interior architecture project that brings together the worlds of education and business in a university setting. This project combines modern office design with educational spaces, providing an inspiring and functional environment for both students and professionals. Our design team prioritized aesthetics and functionality, optimizing the use of open office and educational areas to ensure maximum efficiency. The Tatbik-i Office Project features a unique design approach that combines spacious open office areas with modern educational classrooms. In this project, flexible and multi-purpose furniture and decor solutions were chosen to meet the needs of both spaces. Equipped with high-quality materials and ergonomic designs, this interior architecture project enhances both work and learning environments to the highest level. As Wawa Interior Design Studio, we take pride in presenting our modern interior architecture solutions in the Tatbik-i Office Project, designed to support efficient work and educational processes within a university setting. This project serves as a meeting point for education and business, offering its users an inspiring and comfortable space."
+    },
+    "mbResidential": {
+      "title": "M.B Residential Design and Implementation",
+      "description": "M.B Residential Design and Implementation is a prestigious villa design project that offers a perfect blend of timeless aesthetics and modern architecture. As Wawa Interior Design Studio, our goal in this project was to combine contemporary lines with luxurious details, providing our clients with superior comfort and elegance. Thanks to our carefully selected materials and innovative design approach, M.B Residential Design offers a living space that will maintain its value and remain stylish for many years to come. M.B Residential Design and Implementation offers its users a prestigious villa experience with spacious and airy living areas. Designed to meet the needs of modern life, this project stands out at the highest level both in terms of aesthetics and functionality. Equipped with smart home technologies and sustainable materials, these villas provide a secure, energy-efficient, and comfortable living environment. As Wawa Interior Design Studio, our aim with this project, which reflects timeless design and modernity at the highest level, is to make a difference in the field of prestigious villa design."
+    },
+    "caddebostan": {
+      "title": "Caddebostan Residential Project",
+      "description": "As Wawa Interior Design Studio, we are bringing together the elegance and comfort of modern living with our residential project in Caddebostan. This exclusive interior architecture project was meticulously planned and brought to life by our expert design team with an innovative approach. By seamlessly combining aesthetics and functionality, we have created one of the finest examples of modern residential design in this project. The Caddebostan Residential Project stands out with its interior architectural details. Spacious and airy living areas are furnished with aesthetic and functional furniture, maximizing user comfort. The stylish and functional kitchens, modern and relaxing bedrooms, and social spaces reflect our expertise in interior design. This interior architecture project, enriched with high-quality materials and sophisticated design elements, combines luxury and comfort in every detail. As Wawa Interior Design Studio, in this interior architecture project in Caddebostan, we are showcasing our expertise in modern residential design and interior architecture by seamlessly blending aesthetics and functionality in your living spaces. With our innovative approach to interior design, the Caddebostan Residential Project opens the doors to a comfortable and stylish living experience."
+    },
+    "germanyResidential": {
+      "title": "The Germany Residential Project",
+      "description": "As Wawa Interior Design Studio, we are redefining the new face of modern living with our residential project in Germany. This interior architecture project seamlessly combines elegance and functionality in every detail. Our expert design team brought this project to life with creative and innovative solutions. Prioritizing comfort and aesthetics, we have created one of the finest examples of modern villa design. The Germany Residential Project offers a spacious and bright living environment, while the use of high-quality materials and sophisticated design details exude luxury. Every corner of this project reflects traces of modern art, providing residents with a living space that is both aesthetically pleasing and functional. With our innovative interior design solutions, we are not just creating a house but a lifestyle. As Wawa Interior Design Studio, with this exclusive residential project in Germany, we are pushing the boundaries of modern villa design and bringing a fresh perspective to our interior architecture projects."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest News & Insights",
+    "readMore": "Read More",
+    "noPosts": "No blog posts yet. Check back soon!",
+    "admin": {
+      "title": "Admin - Blog Management",
+      "addPost": "Add New Post",
+      "editPost": "Edit Post",
+      "deletePost": "Delete Post",
+      "titleLabel": "Title",
+      "contentLabel": "Content",
+      "excerptLabel": "Excerpt",
+      "imageLabel": "Image URL",
+      "categoryLabel": "Category",
+      "save": "Save",
+      "cancel": "Cancel",
+      "login": "Login",
+      "password": "Password",
+      "loginButton": "Login",
+      "logout": "Logout"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "heroQuote": "Let's create something beautiful together. Reach out and let's start the conversation.",
+    "address": "Address",
+    "addressLine1": "Herengracht 280,",
+    "addressLine2": "Amsterdam, 1016 BX,",
+    "addressLine3": "Netherlands",
+    "openingHours": "Opening Hours",
+    "hoursWeekday": "Monday - Friday: 9am - 5pm",
+    "hoursSaturday": "Saturday: 11am - 4pm",
+    "hoursSunday": "Sunday: Closed",
+    "email": "Email",
+    "phone": "Phone",
+    "socials": "Socials",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "quote": {
+    "title": "Get a Quote",
+    "subtitle": "Request Your Free Consultation",
+    "form": {
+      "title": "Request a Quote",
+      "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Service Type",
+      "projectType": "Project Type",
+      "budget": "Budget Range",
+      "timeline": "Timeline",
+      "message": "Project Details",
+      "submit": "Submit Request",
+      "selectService": "Select a service",
+      "selectBudget": "Select budget range",
+      "selectTimeline": "Select timeline",
+      "registerCheckbox": "As a member, you can follow the project live, step by step, including the change of offers and agreements.",
+      "password": "Password",
+      "address": "Address"
+    },
+    "success": "Thank you! We'll get back to you soon."
+  },
+  "footer": {
+    "description": "Creating beautiful interiors that transform lives.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}
+
