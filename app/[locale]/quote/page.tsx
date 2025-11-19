@@ -284,8 +284,7 @@ export default function QuotePage() {
             console.error('❌ Error uploading file to Supabase:', uploadError);
             console.error('Upload error details:', {
               message: uploadError.message,
-              statusCode: uploadError.statusCode,
-              error: uploadError.error
+              error: uploadError.error || uploadError
             });
             // Don't throw - continue without attachment
           } else if (uploadData) {
