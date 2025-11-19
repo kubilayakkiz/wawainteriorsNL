@@ -136,6 +136,7 @@ export default function HomePage() {
       const randomService = services[Math.floor(Math.random() * services.length)];
       setDefaultBackground(randomService.image);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [services.length]);
 
   return (

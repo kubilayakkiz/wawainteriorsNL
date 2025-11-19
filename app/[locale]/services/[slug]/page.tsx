@@ -36,6 +36,9 @@ export default function ServiceDetailPage({ params }: { params: { slug: string; 
   const t = useTranslations('services');
   const locale = useLocale();
   const { slug } = params;
+  
+  // React Hooks must be called before any early returns
+  const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
 
   if (!serviceSlugs.includes(slug)) {
     return (
@@ -102,7 +105,6 @@ export default function ServiceDetailPage({ params }: { params: { slug: string; 
   const approachItems = getApproachItems();
   const faqs = getFAQs();
   const relatedProjects = getRelatedProjects(slug);
-  const [openFaqIndex, setOpenFaqIndex] = useState<number | null>(null);
 
   const toggleFaq = (index: number) => {
     setOpenFaqIndex(openFaqIndex === index ? null : index);

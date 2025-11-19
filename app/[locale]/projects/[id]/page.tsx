@@ -340,6 +340,7 @@ export default function ProjectDetailPage({ params }: { params: { id: string; lo
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedImageIndex, images.gallery.length]);
 
   if (!project) {

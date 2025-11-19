@@ -54,6 +54,7 @@ export default function ServicesPage() {
   useEffect(() => {
     const randomService = services[Math.floor(Math.random() * services.length)];
     setDefaultBackground(randomService.image);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
