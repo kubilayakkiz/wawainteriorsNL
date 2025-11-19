@@ -297,8 +297,9 @@ export default function QuotePage() {
             
             console.log('getPublicUrl response:', urlData);
             
-            if (urlData && urlData.publicUrl) {
-              attachmentUrl = urlData.publicUrl;
+            // getPublicUrl returns { data: { publicUrl: string } }
+            if (urlData?.data?.publicUrl) {
+              attachmentUrl = urlData.data.publicUrl;
               console.log('✅ Public URL obtained from getPublicUrl:', attachmentUrl);
             } else {
               // Fallback: construct URL manually
