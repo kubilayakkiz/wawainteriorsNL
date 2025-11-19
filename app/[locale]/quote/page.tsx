@@ -282,10 +282,7 @@ export default function QuotePage() {
 
           if (uploadError) {
             console.error('❌ Error uploading file to Supabase:', uploadError);
-            console.error('Upload error details:', {
-              message: uploadError.message,
-              error: uploadError.error || uploadError
-            });
+            console.error('Upload error message:', uploadError.message);
             // Don't throw - continue without attachment
           } else if (uploadData) {
             console.log('✅ File uploaded successfully:', uploadData);
